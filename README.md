@@ -19,7 +19,9 @@ Packages and Tools utilized:
 </p>
 
 
-
+Automated Route Plotting   |  Automated Customer Allocation
+:-------------------------:|:-------------------------:
+![](/images/wue_routes.svg)  |  ![](/images/color_pup_test123.svg)
 
 
 
