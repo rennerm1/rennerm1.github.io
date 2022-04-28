@@ -13,8 +13,8 @@ Packages and Tools utilized:
 
 
 <p align="middle">
-  <img src="/images/wue_routes.svg" width="80%" />
-  <img src="/images/color_pup_test123.svg" width="80%" /> 
+  <img src="/images/wue_routes.svg" width="50%" />
+  <img src="/images/color_pup_test123.svg" width="50%" /> 
 
 </p>
 
