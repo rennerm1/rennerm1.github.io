@@ -17,6 +17,9 @@ Automated Route Plotting   |  Automated Customer Allocation
 
 
 
+
+![](/images/wue_routes.svg "Automated Route Plotting") ![](/images/color_pup_test123.svg "Automated Customer Allocation")
+
 ## [Project 2: NFL Data Science Project]
 An extensive data science project focusing on data wrangling with large data sets (500.000 rows, 255 columns), as well as visualization of underlying insights in the sport of American Football. The data set stored play-by-play information for the seasons of 2009-2019. 
 Through the use of some tidyverse data wrangling techniques and ggplots visualization capabilities interesting insights were derived.
