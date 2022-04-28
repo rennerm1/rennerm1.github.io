@@ -10,9 +10,13 @@ Packages and Tools utilized:
 * HERE API: In order to generate distance and travel time matrices, including historical traffic data
 * Gurobi(py): To formulate the MILP models and solve them
 
-![](/images/wue_routes.svg)
 
 
+<p align="middle">
+  <img src="/images/wue_routes.svg" width="49%" />
+  <img src="/images/color_pup_test123.svg" width="49%" /> 
+
+</p>
 
 
 
