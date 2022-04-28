@@ -11,3 +11,16 @@ Packages and Tools utilized:
 * Gurobi(py): To formulate the MILP models and solve them
 
 ![](/images/wue_routes.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+[Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
