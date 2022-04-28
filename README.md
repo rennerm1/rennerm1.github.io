@@ -6,8 +6,8 @@ The following figure displays the utilized modeling framework, which illustrates
 ![](/images/models.svg)
 
 Packages and Tools utilized:
-* OSMNX to generate weighted graphs and sample customer nodes, and visually display the routing or clustering dependent on the utilized model
-* HERE API in order to generate distance and travel time matrices, including historical traffic data
-* Gurobi(py) to formulate the MILP models and solve them
+* OSMNX: To generate weighted graphs and sample customer nodes as well as visually display the routing or clustering
+* HERE API: In order to generate distance and travel time matrices, including historical traffic data
+* Gurobi(py): To formulate the MILP models and solve them
 
 ![](/images/wue_routes.svg)
