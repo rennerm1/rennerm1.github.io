@@ -4,3 +4,10 @@ Over the course of my masters thesis I formulated two MILP models (FLP,LRP) in o
 The following figure displays the utilized modeling framework, which illustrates the interdependce between models as well as the indivudally required model parameters.
 
 ![](/images/models.svg)
+
+Packages and Tools utilized:
+* OSMNX to generate weighted graphs and sample customer nodes, and visually display the routing or clustering dependent on the utilized model
+* HERE API in order to generate distance and travel time matrices, including historical traffic data
+* Gurobi(py) to formulate the MILP models and solve them
+
+![](/images/wue_routes.svg)
