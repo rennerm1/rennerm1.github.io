@@ -35,10 +35,14 @@ Through the use of some tidyverse data wrangling techniques and ggplots visualiz
 </p>
 
 The project also included the scraping of college and combine stats of collegiate athletes. \
-The scraped data was subsequently used to once more gain a deeper understanding about player performance. The data was also utilized in order to train a machine learning model capable of predicting in which rounds players would be drafted in the yearly NFL draft.
+The scraped data was subsequently used to once more gain a deeper understanding about player performance as well as performance in relation to college location. The data was also utilized in order to train a machine learning model capable of predicting in which rounds players would be drafted in the yearly NFL draft.
 We decided to use a random forest model and achieved the following performance metrics: 69.3% Accuracy, 0.609 ROC Score
 
-
+<p align="center">
+  <img alt="Draft Locations" src="/images/draft_locations.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Model Parameters" src="/images/nfl_pred_model.png" width="45%">
+</p>
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
 [Project 2: NFL Data Science Project]: https://github.com/rennerm1/NFL-Data-Science-Project
