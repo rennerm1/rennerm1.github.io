@@ -33,7 +33,11 @@ Quarterback Analysis   |  Expected Points Added Run Plays
 :-------------------------:|:-------------------------:
 ![](/images/QB_Analysis.png)  |  ![](/images/EPA_Runloc.png)
 
-
+<p align="center">
+  <img alt="Quarterback Analysis" src="/images/QB_Analysis.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="45%">
+</p>
 
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
