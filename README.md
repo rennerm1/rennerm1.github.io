@@ -22,9 +22,9 @@ An extensive data science project focusing on data wrangling with large data set
 Through the use of some tidyverse data wrangling techniques and ggplots visualization capabilities interesting insights were derived.
 
 
-Automated Route Plotting   |  Automated Customer Allocation
+Quarterback Analysis   |  Expected Points Added Run Plays
 :-------------------------:|:-------------------------:
-![]()  |  ![]()
+![](/images/QB_Analysis.png)  |  ![](/images/EPA_Runloc.png)
 
 
 
