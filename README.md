@@ -11,13 +11,6 @@ Packages and Tools utilized:
 * Gurobi(py): To formulate the MILP models and solve them
 
 
-Automated Route Plotting   |  Automated Customer Allocation
-:-------------------------:|:-------------------------:
-![](/images/wue_routes.svg)  |  ![](/images/color_pup_test123.svg)
-
-
-
-
 <p align="center">
   <img alt="Automated Route Plotting" src="/images/wue_routes.svg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
