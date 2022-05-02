@@ -3,7 +3,7 @@ Over the course of my masters thesis I formulated two MILP models (FLP,LRP) in o
 
 The following figure displays the utilized modeling framework, which illustrates the interdependce between models as well as the indivudally required model parameters.
 
-![](/images/models.svg)
+![](/images/models.svg width="250" height="550")
 
 Packages and Tools utilized:
 * OSMNX: To generate weighted graphs and sample customer nodes as well as visually display the routing or clustering
