@@ -22,9 +22,9 @@ An extensive data science project focusing on data wrangling with large data set
 Through the use of some tidyverse data wrangling techniques and ggplots visualization capabilities, interesting insights were derived.
 
 <p align="center">
-  <img alt="Quarterback Analysis" src="/images/QB_Analysis.png" width="45%">
+  <img alt="Quarterback Analysis" src="/images/QB_Analysis.png" width="49%" height = "300">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="45%">
+  <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="49%" height = "300">
 </p>
 
 The project also included the scraping of college and combine stats of collegiate athletes. \
