@@ -34,11 +34,6 @@ We decided to use a random forest model and achieved the following performance m
   <img src="/images/draft_locations.png" width="49%" height="300">
   <img src="/images/nfl_pred_model.png.png" width="49%" height="300">
 </p>
-<p align="center">
-  <img alt="Draft Locations" src="/images/draft_locations.png"  width="550" height="300">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Model Parameters" src="/images/nfl_pred_model.png" width="550" height="300">
-</p>
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
 [Project 2: NFL Data Science Project]: https://github.com/rennerm1/NFL-Data-Science-Project
