@@ -22,16 +22,14 @@ An extensive data science project focusing on data wrangling with large data set
 Through the use of some tidyverse data wrangling techniques and ggplots visualization capabilities, interesting insights were derived.
 
 <p align="center">
-  <img alt="Quarterback Analysis" src="/images/QB_Analysis.png" width="49%" height = "300">
-  <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="49%" height = "300">
+  <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="100%">
 </p>
 
 The project also included the scraping of college and combine stats of collegiate athletes. \
 The scraped data was subsequently used to once more gain a deeper understanding about player performance as well as performance in relation to college location. The data was also utilized in order to train a machine learning model capable of predicting in which rounds players would be drafted in the yearly NFL draft.
 We decided to use a random forest model and achieved the following performance metrics: 69.3% Accuracy, 0.609 ROC Score
 <p align="center">
-  <img src="/images/draft_locations.png" width="49%" height="300">
-  <img src="/images/nfl_pred_model.png" width="49%" height="300">
+  <img src="/images/draft_locations.png" width="100%">
 </p>
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
