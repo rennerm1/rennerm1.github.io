@@ -32,7 +32,7 @@ We decided to use a random forest model and achieved the following performance m
 </p>
 
 
-[Project 3: Deep Learning - Image Classification and Object Detection (Python)]
+##[Project 3: Deep Learning - Image Classification and Object Detection (Python)]
 Kaggle competition 
 
 [Project 1: Facility-Location and Location-Routing MILP Models (Python)]: https://github.com/rennerm1/thesis
