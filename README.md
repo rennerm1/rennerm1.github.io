@@ -12,8 +12,8 @@ Packages and Tools utilized:
 
 
 <p align="center">
-  <img alt="Automated Route Plotting" src="/images/wue_routes.svg" height="550">
-  <img alt="Automated Customer Allocation" src="/images/color_pup_test123.svg"  height="550">
+  <img alt="Automated Route Plotting" src="/images/wue_routes.svg" height="450">
+  <img alt="Automated Customer Allocation" src="/images/color_pup_test123.svg"  height="450">
 </p>
 
 ## [Project 2: NFL Data Science Project (R)]
