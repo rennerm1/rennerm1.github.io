@@ -33,7 +33,6 @@ We decided to use a random forest model and achieved the following performance m
 <p align="center">
   <img src="/images/draft_locations.png" width="550" height="300">
   <img src="/images/nfl_pred_model.png.png" width="550" height="300">
-  <img src="screen3.png" width="256" height="455">
 </p>
 <p align="center">
   <img alt="Draft Locations" src="/images/draft_locations.png"  width="550" height="300">
