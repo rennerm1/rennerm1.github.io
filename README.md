@@ -31,5 +31,13 @@ We decided to use a random forest model and achieved the following performance m
   <img src="/images/draft_locations.png" width="100%">
 </p>
 
-[Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
-[Project 2: NFL Data Science Project]: https://github.com/rennerm1/NFL-Data-Science-Project
+
+[Project 3: Deep Learning - Image Classification and Object Detection (Python)]
+Kaggle competition 
+
+[Project 1: Facility-Location and Location-Routing MILP Models (Python)]: https://github.com/rennerm1/thesis
+[Project 2: NFL Data Science Project (R)]: https://github.com/rennerm1/NFL-Data-Science-Project
+[Project 3: Deep Learning - Image Classification and Object Detection (Python)]: https://github.com/rennerm1/Deep-Learning-Project
+
+
+
