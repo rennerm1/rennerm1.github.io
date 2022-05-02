@@ -32,9 +32,9 @@ The scraped data was subsequently used to once more gain a deeper understanding 
 We decided to use a random forest model and achieved the following performance metrics: 69.3% Accuracy, 0.609 ROC Score
 
 <p align="center">
-  <img alt="Draft Locations" src="/images/draft_locations.png"  width="600" height="300">
+  <img alt="Draft Locations" src="/images/draft_locations.png"  width="550" height="300">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Model Parameters" src="/images/nfl_pred_model.png" width="600" height="300">
+  <img alt="Model Parameters" src="/images/nfl_pred_model.png" width="550" height="300">
 </p>
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
