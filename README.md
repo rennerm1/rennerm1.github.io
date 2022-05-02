@@ -12,7 +12,7 @@ Packages and Tools utilized:
 
 
 <p align="center">
-  <img alt="Automated Route Plotting" src="/images/wue_routes.svg" width="45%">
+  <img alt="Automated Route Plotting" src="/images/wue_routes.svg" width="250" height="550">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Automated Customer Allocation" src="/images/color_pup_test123.svg" width="45%">
 </p>
