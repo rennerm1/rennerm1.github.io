@@ -31,8 +31,8 @@ The project also included the scraping of college and combine stats of collegiat
 The scraped data was subsequently used to once more gain a deeper understanding about player performance as well as performance in relation to college location. The data was also utilized in order to train a machine learning model capable of predicting in which rounds players would be drafted in the yearly NFL draft.
 We decided to use a random forest model and achieved the following performance metrics: 69.3% Accuracy, 0.609 ROC Score
 <p align="center">
-  <img src="/images/draft_locations.png" width="49%" height="100%">
-  <img src="/images/nfl_pred_model.png" width="49%" height="100%">
+  <img src="/images/draft_locations.png" width="49%" height="300">
+  <img src="/images/nfl_pred_model.png" width="49%" height="300">
 </p>
 
 [Project 1: Facility-Location and Location-Routing MILP Models]: https://github.com/rennerm1/thesis
