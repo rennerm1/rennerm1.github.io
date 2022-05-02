@@ -23,7 +23,6 @@ Through the use of some tidyverse data wrangling techniques and ggplots visualiz
 
 <p align="center">
   <img alt="Quarterback Analysis" src="/images/QB_Analysis.png" width="49%" height = "300">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Expected Points Added Run Plays" src="/images/EPA_Runloc.png" width="49%" height = "300">
 </p>
 
