@@ -3,7 +3,7 @@ Over the course of my masters thesis I formulated two MILP models (FLP,LRP) in o
 
 The following figure displays the utilized modeling framework, which illustrates the interdependce between models as well as the indivudally required model parameters.
 
-![](/images/models.svg width="250" height="550")
+![](/images/models.svg)
 
 Packages and Tools utilized:
 * OSMNX: To generate weighted graphs and sample customer nodes as well as visually display the routing or clustering
@@ -30,7 +30,11 @@ Through the use of some tidyverse data wrangling techniques and ggplots visualiz
 The project also included the scraping of college and combine stats of collegiate athletes. \
 The scraped data was subsequently used to once more gain a deeper understanding about player performance as well as performance in relation to college location. The data was also utilized in order to train a machine learning model capable of predicting in which rounds players would be drafted in the yearly NFL draft.
 We decided to use a random forest model and achieved the following performance metrics: 69.3% Accuracy, 0.609 ROC Score
-
+<p align="center">
+  <img src="/images/draft_locations.png" width="550" height="300">
+  <img src="/images/nfl_pred_model.png.png" width="550" height="300">
+  <img src="screen3.png" width="256" height="455">
+</p>
 <p align="center">
   <img alt="Draft Locations" src="/images/draft_locations.png"  width="550" height="300">
 &nbsp; &nbsp; &nbsp; &nbsp;
